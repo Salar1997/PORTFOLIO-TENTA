@@ -1,4 +1,3 @@
-README.txt
 
     1_install node.js nad git bash.
 
