@@ -3,17 +3,17 @@ import { Link } from "gatsby"
 const data = [
   {
     id: 1,
-    text: "home",
+    text: "Hem",
     url: "/",
   },
   {
     id: 2,
-    text: "about",
+    text: "Mitt CV",
     url: "/about/",
   },
   {
     id: 3,
-    text: "projects",
+    text: "Projekt",
     url: "/projects/",
   },
   {
@@ -23,7 +23,7 @@ const data = [
   },
   {
     id: 5,
-    text: "contact",
+    text: "Kontakt",
     url: "/contact/",
   },
 ]
