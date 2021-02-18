@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "tuc-sweden",
+      "api_key": "343224312823371",
+      "api_secret": "YPUw4r_UnAKusObxZoLsUqoy0_M"
+    }
+  }
